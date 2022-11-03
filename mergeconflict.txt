@@ -2,4 +2,8 @@ There is a conlict, get to it.
 
 A problem, eh?
 
+<<<<<<< Updated upstream
 Another
+=======
+asdfasdfasdf
+>>>>>>> Stashed changes
